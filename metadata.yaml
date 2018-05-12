@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5329
     wikipedia: https://en.wikipedia.org/wiki/George_Forrest_Browne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14012#Ice-Caves-of-France-and-Switzerland
 gutenberg_bookshelf:
 - Geology
 - France
